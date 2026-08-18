@@ -7,6 +7,7 @@ A collection of classic data structures implemented in JavaScript for educationa
 > _More structures coming soon_
 
 - **Recursion** — `recursion.js`
+- **Stack** - `stack.js`
 
 ## Why this repository?
 
